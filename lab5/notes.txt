@@ -1,0 +1,9 @@
+Acount class:
+Maintain as data members the atributes name, balance, history
+- provide member function or behaviors
+        -set and get name 
+        -Querying the balance
+        - making a deposit that increase the balance
+        - making a withdrawal
+        - getBalance
+        _ deposit
