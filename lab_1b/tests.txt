@@ -1,0 +1,41 @@
+# Test1
+Input three unique integers: 13 27 14 
+Sum is 54
+Average is 18
+The product is 4914
+The sum of their squares is1094
+The square of their sum is 2916
+The minimum value is 13
+The maximum value is 27
+
+#Test2
+Input three unique integers:3 4 1000000001
+Sum is 1000000008
+Average is 333333336
+The product is -884901876
+The sum of their squares is 513381402
+The square of their sum is 1628479552
+The minimum value is 3
+The maximum value is 1000000001
+
+Explain: The product is negative because it overflows with the limited range of int
+
+#Test3 
+Input three unique integers:5 6 0
+Sum is 11
+Average is 3
+The product is 0
+The sum of their squares is 61
+The square of their sum is 121
+The minimum value is 0
+The maximum value is 6
+
+#Test4
+Input three unique integers:-2 -3 5
+Sum is 0
+Average is 0
+The product is 30
+The sum of their squares is 38
+The square of their sum is 0
+The minimum value is -3
+The maximum value is 5
